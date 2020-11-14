@@ -13,4 +13,21 @@ DeFi allows any individual to take out or supply a loan without approval from a 
 
 The relative interest earned from supplying different cryptocurrencies varies relative to the asset and platform being used. Our lending page has an intuitive overview of the different lending rates on leading platforms.
 
-To date, lending has been the leading DeFi use-case. Projects we’ve reviewed in the lending sector include but are not limited to: AAVE, bZx, blockfi
+To date, lending has been the leading DeFi use-case. Projects we’ve reviewed in the lending sector include but are not limited to: AAVE, bZx,BlockFi,Compound,coinlist,curve,dydx,yEarn,Maker,mStable,Nuo Network
+DEXs
+Decentralized exchanges allow users to swap their assets without having to transfer custody of the underlying collateral. DEXs aim to provide trustless, interoperable trading across a wide range of trading pairs. In recent months, DEXs have seen vast improvements in usability with some offering liquidity incentives for capital being supplied to the platform.
+
+Projects we’ve covered in the DEX sector include but are not limited to:
+0x Protocol,1inch,Bancor,dydx,Kyber Network,Oasis,OpenSea,Matcha,UniSwap
+Derivatives
+In traditional finance, a derivative represents a contract where the value is derived from an agreement based on the performance of an underlying asset. There are four main types of derivative contracts: futures, forwards, options, and swaps.
+
+With the advent of DeFi, investors benefit from open, transparent and automated settlements for derivative contracts. Smart contracts can issue tokenized derivatives that provide exposure (sometimes with leverage) to both sides of the asset’s performance.
+
+Projects that we’ve reviewed in the derivatives sector include but are not limited to:
+Augur,dYdX,Erasure,Opium,Opyn,Syntheyix,Uma
+Wallets
+Wallets are a crucial gateway for interacting with DeFi products. While they commonly vary in their underlying product and asset support, across the board we’ve seen drastic improvements in usability and access thanks to the growing DeFi narrative.
+
+Projects we’ve reviewed in the wallet sector include but not limited to:
+Argent,Authereum,Coinbase Wallet,Magic,Metamask,Portis
